@@ -32,7 +32,7 @@ https://arizon-new.vercel.app/
 
 ---
 
-## 🧠 Bonus Features (if implemented)
+## 🧠 Bonus Features 
 - Product search
 - Filtering and sorting
 - Dark mode toggle 🌙(implemented But unfortunatly it is not working properly)
